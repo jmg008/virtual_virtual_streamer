@@ -9,20 +9,107 @@
   ],
   "preferences": [
     {
-      "id": "eca00d944110a6ed69ef4ff3f4fc41c5c0cd2d48913b7db7521f836d963e97f1",
-      "entry": "Enjoys eating pasta.",
-      "reason": "The user expresses an interest in going to eat pasta, indicating a preference for it.",
-      "created": "2025-07-15T13:19:16Z"
+      "id": "85c5308ac7af0dfe0be4487685c6c2e31c01f6ec10e87736b77601ced7441c75",
+      "entry": "Likes playing games, specifically horror games like Resident Evil. Inquires about playing 'april'.",
+      "reason": "Reveals gaming preferences and a possible gaming buddy or game name ('april').",
+      "created": "2025-07-15T14:10:12Z"
     },
     {
-      "id": "cc21c6ca1adf4bd1d4c00975c79bdde42ca6ce6903215419f4097b4d64975f51",
-      "entry": "User is potentially interested in eating pasta with someone.",
-      "reason": "Suggests a possible food preference and social activity interest.",
-      "created": "2025-07-15T13:31:52Z"
+      "id": "020d62a45a7afd4d6020982873ffa764e4b1548fd9d15a5bb6c59cd14d9c6d06",
+      "entry": "User wants to play Resident Evil 2 Remake.",
+      "reason": "Indicates a gaming preference, specifically for Resident Evil 2 Remake.",
+      "created": "2025-07-15T14:12:20Z"
+    },
+    {
+      "id": "304079e927746d815f0473d0ef11efb0eeb8fb516ed54c68f608c223e9e197fd",
+      "entry": "Prefers playing as Leon character.",
+      "reason": "Indicates a character preference in games or other contexts.",
+      "created": "2025-07-15T14:13:17Z"
+    },
+    {
+      "id": "226fe1df4503f83bd6855869b29d0120f719709f00ffba99c7672f2443677355",
+      "entry": "Prefers just chatting today; wants conversation.",
+      "reason": "Indicates a current preference for a specific type of interaction (just chatting) and a desire for conversation, revealing interaction preferences.",
+      "created": "2025-07-15T14:15:27Z"
+    },
+    {
+      "id": "1a402505a301c37dfc9c5fa5030bf31b8a02c629360896d1278dcab8ae09aa3e",
+      "entry": "User wants to talk about food preferences and is asking about April's food preferences.",
+      "reason": "Indicates a preference for discussing food and possibly discovering common interests with April. Relevant for future conversations about food.",
+      "created": "2025-07-15T14:21:00Z"
+    },
+    {
+      "id": "c8d7e2935b32d777cfffbed05d2c727fb6786e8d1b29eb96326ec91b743787e5",
+      "entry": "Prefers 돈까스 (Tonkatsu)",
+      "reason": "User states a food preference.",
+      "created": "2025-07-15T14:21:37Z"
+    },
+    {
+      "id": "940fb799ebbda9ef4433eb908082c6ac40c3df85a04ebb7ab32e6fe664a9e525",
+      "entry": "Prefers sweet potato cheese pork cutlet.",
+      "reason": "The user states 'I am sweet potato cheese pork cutlet!' indicating a strong preference or even a self-identification with this food.",
+      "created": "2025-07-15T14:21:54Z"
+    },
+    {
+      "id": "419bc93a4ed9f2e5b01348964e0da09226ff483f33f27eb0b7427d9290aca083",
+      "entry": "Likes chicken.",
+      "reason": "This reveals a food preference.",
+      "created": "2025-07-15T14:22:12Z"
     }
   ],
   "ethics": [],
-  "values": [],
-  "ideology": [],
-  "boundaries": []
+  "values": [
+    {
+      "id": "d13853e323ac0201ab3748d5d54c75ec2e0a03f186096be40fbf9b406aab0332",
+      "entry": "Believes in strengthening support for young people and reforming the national pension policy.",
+      "reason": "Expresses a desire for specific societal changes related to youth support and pension reform, reflecting the user's values and potentially their ideology.",
+      "created": "2025-07-15T14:18:54Z"
+    }
+  ],
+  "ideology": [
+    {
+      "id": "5c5579d5788192b0aa88a1ddff2d0aa73f03f72a9f0986b116cea064bd07fb74",
+      "entry": "Interested in discussing Korean politics.",
+      "reason": "Expresses an interest in a specific political topic, suggesting a potential ideological leaning or interest in civic engagement.",
+      "created": "2025-07-15T14:16:07Z"
+    },
+    {
+      "id": "5dec77a75239bf82e77bd50d5ef14d9b9446f9046141bb949f50c15911c077ec",
+      "entry": "Expressed opinion about current president Lee Jae-myung.",
+      "reason": "The user expressed an opinion about a political figure, indicating a potential political leaning or ideology.",
+      "created": "2025-07-15T14:16:29Z"
+    },
+    {
+      "id": "0a971b093a157b5172ebb7cc6ade03739216d40c0caedc3f34bb9d7d38b5bd30",
+      "entry": "Strongly disapproves of Lee Jae-myung, viewing him as incompetent, pro-North Korea, and a communist. Expresses disbelief at his level of support.",
+      "reason": "The user expresses a strong political opinion and negative sentiment towards a specific political figure and ideology, indicating a clear ideological stance.",
+      "created": "2025-07-15T14:17:11Z"
+    },
+    {
+      "id": "3eeaaa0aee2dfb8b1973ec19f2071633fb4ced05310fe1f8b2c221aa092569e9",
+      "entry": "Supports anti-communism, deregulation, and Lee Jun-seok for president.",
+      "reason": "Reveals the user's political ideology and preferred candidate, which is important for understanding their perspective.",
+      "created": "2025-07-15T14:17:41Z"
+    },
+    {
+      "id": "046fa66c14aac1b53148ef94c210a6f1243db44be30ad247a58365090e059fd2",
+      "entry": "Asked about opinion on former President Yoon Suk-yeol's potential martial law.",
+      "reason": "The user is asking about a specific political issue related to a former president and martial law, which is a highly charged political topic. This reveals the user is interested in political issues and may have strong opinions about them, which relates to their ideology.",
+      "created": "2025-07-15T14:19:52Z"
+    },
+    {
+      "id": "7f3e50e6f36037c21706e16eea8e96aae0f1905a89076df4b9b875280436cbc3",
+      "entry": "Believes martial law is justifiable to apprehend spies, citing Democratic Party members as examples.",
+      "reason": "This statement reveals the user's strong political views and justification for authoritarian measures, indicating a potentially significant aspect of their ideology.",
+      "created": "2025-07-15T14:20:20Z"
+    }
+  ],
+  "boundaries": [
+    {
+      "id": "8a7df6dc03bbf9faef0b6a4b558fc6b24a7718b47031de96fbacc307728aa944",
+      "entry": "User expects the bot to adhere to the initial prompt's instructions regarding formality (반말)",
+      "reason": "The user is enforcing a specific behavior (using 반말 - informal language) that was previously defined in the initial prompt. This relates to the bot's operational boundaries and the user's expectation of adhering to instructions.",
+      "created": "2025-07-15T14:12:45Z"
+    }
+  ]
 }
