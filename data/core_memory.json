@@ -1,0 +1,28 @@
+{
+  "identity": [
+    {
+      "id": "1ebe14706e4721e0e165168df008aaca517c136a528131ad86b646d5bc141203",
+      "entry": "User identifies as Abu.",
+      "reason": "This is a self-identification and provides basic information about the user's name.",
+      "created": "2025-07-15T13:16:36Z"
+    }
+  ],
+  "preferences": [
+    {
+      "id": "eca00d944110a6ed69ef4ff3f4fc41c5c0cd2d48913b7db7521f836d963e97f1",
+      "entry": "Enjoys eating pasta.",
+      "reason": "The user expresses an interest in going to eat pasta, indicating a preference for it.",
+      "created": "2025-07-15T13:19:16Z"
+    },
+    {
+      "id": "cc21c6ca1adf4bd1d4c00975c79bdde42ca6ce6903215419f4097b4d64975f51",
+      "entry": "User is potentially interested in eating pasta with someone.",
+      "reason": "Suggests a possible food preference and social activity interest.",
+      "created": "2025-07-15T13:31:52Z"
+    }
+  ],
+  "ethics": [],
+  "values": [],
+  "ideology": [],
+  "boundaries": []
+}
