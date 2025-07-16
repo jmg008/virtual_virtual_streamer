@@ -8,3 +8,5 @@ openai-whisper
 sounddevice                 
 coqui-tts
 python-multipart             # 음성 업로드용
+pytchat                      # 유튜브 라이브 채팅 수집
+asyncio-throttle             # 비동기 처리 제한

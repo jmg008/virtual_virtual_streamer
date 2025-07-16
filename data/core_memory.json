@@ -55,6 +55,18 @@
       "entry": "Likes chicken.",
       "reason": "This reveals a food preference.",
       "created": "2025-07-15T14:22:12Z"
+    },
+    {
+      "id": "b2628921356f3781f91af8e105bd6d8165afa9e70a3746cdf9f709502948ec89",
+      "entry": "Interested in watching Attack on Titan Final Season Part 3 in theaters.",
+      "reason": "Expresses interest in a specific movie and asks about seeing it in theaters, indicating a preference for watching anime movies in theaters.",
+      "created": "2025-07-16T08:03:04Z"
+    },
+    {
+      "id": "269bf96618a364bc6b44234a730da97ba38695f8bff8ee62e0c46a10d93c1f44",
+      "entry": "User believes Shadis is incompetent and Magath is excellent.",
+      "reason": "Expresses a strong opinion about two characters, indicating a preference or judgment related to their abilities.",
+      "created": "2025-07-16T08:07:50Z"
     }
   ],
   "ethics": [],
