@@ -1,6 +1,5 @@
 import re
 import pyautogui
-import time
 
 emos = {
     "Joy": '1',
@@ -18,5 +17,4 @@ emos = {
 def extract_emotion(text):
     emo = re.search("\[(.*?)\]", text)[1]
     pyautogui.hotkey('alt', emos[emo])
-    pyautogui.click('backspace')
-    time.sleep(2)
+    pyautogui.press('backspace')

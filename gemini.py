@@ -19,7 +19,7 @@ def chat(user_input, log):
 
 def profiling(log):
     response = client.models.generate_content(
-        model = "gemini-2.5-pro",
+        model = "gemini-2.5-flash",
         config = types.GenerateContentConfig(
             system_instruction = f"# 기존 코어 메모리\n{open("april_core_memory.json", "r", encoding="utf-8").read()}\n\n# 프롬프트\n{profiler_prompt}"
         ),
@@ -29,3 +29,16 @@ def profiling(log):
     mem_file = open("april_core_memory.json", 'w', encoding='utf-8')
     memory = re.search("```json(.*)```", response.text, re.S)[1].strip()
     mem_file.write(memory)
+
+def stting(audio):
+    response = client.models.generate_content(
+        model = "gemini-2.5-flash-lite-preview-06-17",
+        config = types.GenerateContentConfig(
+            system_instruction = open("stt_prompt.txt", 'r', encoding='utf-8').read()
+        ),
+        contents = types.Part.from_bytes(
+            data=audio,
+            mime_type="audio/wav"
+        )
+    )
+    return response.text
